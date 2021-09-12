@@ -1,0 +1,26 @@
+{
+  "name": "little-title",
+  "version": "0.0.1",
+  "description": "200实现的精简react",
+  "license": "MIT",
+  "repository": "github:yujingwyh/little-title",
+  "bugs": "https://github.com/yujingwyh/little-title/issues",
+  "keywords": [
+    "react",
+    "源码",
+    "原理"
+  ],
+  "author": {
+    "name": "yujingwyh",
+    "email": "yujingwyh@163.com"
+  },
+  "scripts": {
+    "demo1": "npx parcel ./demo/demo1/index.html --open --no-cache",
+    "demo2": "npx parcel ./demo/demo2/index.html --open --no-cache",
+    "demo3": "npx parcel ./demo/demo3/index.html --open --no-cache",
+    "demo4": "npx parcel ./demo/demo4/index.html --open --no-cache"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-rc.0"
+  }
+}
